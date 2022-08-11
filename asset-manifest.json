@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Facebook/static/js/main.35f8333c.js",
+    "static/media/eu.jpg": "/Facebook/static/media/eu.cdeccac0742ce62be2ec.jpg",
+    "static/media/Adriano.jpg": "/Facebook/static/media/Adriano.25599242a38f52309216.jpg",
+    "index.html": "/Facebook/index.html",
+    "main.35f8333c.js.map": "/Facebook/static/js/main.35f8333c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.35f8333c.js"
+  ]
+}
